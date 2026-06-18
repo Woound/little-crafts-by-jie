@@ -7,26 +7,66 @@ export const metadata = {
 
 const ICONS = {
   instagram: (
-    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+    <svg
+      viewBox="0 0 24 24"
+      width="22"
+      height="22"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
       <rect x="3" y="3" width="18" height="18" rx="5" />
       <circle cx="12" cy="12" r="4" />
       <circle cx="17.4" cy="6.6" r="1.1" fill="currentColor" stroke="none" />
     </svg>
   ),
   email: (
-    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+    <svg
+      viewBox="0 0 24 24"
+      width="22"
+      height="22"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
       <rect x="3" y="5" width="18" height="14" rx="2.5" />
       <path d="m3.6 7.2 8.4 5.6 8.4-5.6" />
     </svg>
   ),
   commission: (
-    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+    <svg
+      viewBox="0 0 24 24"
+      width="22"
+      height="22"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
       <path d="M12 20h9" />
       <path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z" />
     </svg>
   ),
   payment: (
-    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+    <svg
+      viewBox="0 0 24 24"
+      width="22"
+      height="22"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
       <rect x="2.5" y="5" width="19" height="14" rx="2.5" />
       <path d="M2.5 9.5h19" />
       <path d="M6 14.5h4" />

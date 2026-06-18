@@ -47,7 +47,7 @@ export default function SizeGuidePage() {
         }}
       >
         every piece also shows its own measurements on its card and in the
-        pop-out. these are approximate — each one is handmade, so there’s always
+        pop-out. these are approximate, each one is handmade, so there’s always
         a little natural variation.
       </p>
 

@@ -1,6 +1,5 @@
-import Polaroid from "@/components/Polaroid";
 import LinkButton from "@/components/LinkButton";
-import { font, shadow, color } from "@/lib/ui";
+import { font, color, asset } from "@/lib/ui";
 
 export const metadata = {
   title: "about — little crafts by jie",
@@ -30,29 +29,28 @@ export default function AboutPage() {
         about
       </h1>
 
-      <Polaroid
-        width="100%"
-        rotate={-1.5}
-        padding="16px 16px 56px"
-        boxShadow="5px 6px 0 rgba(74,59,46,0.16)"
-        fillHeight={300}
-        fill="repeating-linear-gradient(135deg,#F0E2DC 0 16px,#E7D0C6 16px 32px)"
-        washi={{
-          width: 110,
-          height: 28,
-          rotate: -3,
-          top: -12,
-          tint: "rgba(199,138,114,",
-          alphaA: 0.55,
-          alphaB: 0.3,
-          band: 8,
+      <figure
+        style={{
+          maxWidth: 560,
+          margin: "30px auto 44px",
+          transform: "rotate(-1.5deg)",
+          background: "#fff",
+          padding: "14px 14px 16px",
+          borderRadius: 8,
+          boxShadow: "5px 6px 0 rgba(74,59,46,0.16)",
         }}
-        caption="jie & the craft table ♥"
-        captionColor="#9c7766"
-        captionSize={23}
-        captionBottom={18}
-        style={{ maxWidth: 520, margin: "30px auto 44px" }}
-      />
+      >
+        <img
+          src={asset("/about/ps-i-love-u.png")}
+          alt="vintage flower postage stamps with a handwritten 'p.s. i love u' note"
+          style={{
+            display: "block",
+            width: "100%",
+            height: "auto",
+            borderRadius: 4,
+          }}
+        />
+      </figure>
 
       <div
         style={{

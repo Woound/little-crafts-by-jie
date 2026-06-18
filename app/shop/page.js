@@ -4,7 +4,7 @@ import ShopGrid from "@/components/ShopGrid";
 import { font, color } from "@/lib/ui";
 
 export const metadata = {
-  title: "the shop — little crafts by jie",
+  title: "the shop · little crafts by jie",
 };
 
 export default function ShopPage() {

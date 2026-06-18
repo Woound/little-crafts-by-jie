@@ -2,7 +2,7 @@ import { font, shadow, color } from "@/lib/ui";
 import { LINKS } from "@/lib/links";
 
 export const metadata = {
-  title: "say hi — little crafts by jie",
+  title: "say hi · little crafts by jie",
 };
 
 const CARDS = [

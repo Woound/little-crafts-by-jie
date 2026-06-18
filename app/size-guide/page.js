@@ -3,7 +3,7 @@ import LinkButton from "@/components/LinkButton";
 import { font, shadow, color, asset } from "@/lib/ui";
 
 export const metadata = {
-  title: "size guide — little crafts by jie",
+  title: "size guide · little crafts by jie",
 };
 
 // Standalone size-guide page. Shows Jie's hand-drawn measurements sketch as a

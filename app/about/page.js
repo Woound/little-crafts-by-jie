@@ -2,7 +2,7 @@ import LinkButton from "@/components/LinkButton";
 import { font, color, asset } from "@/lib/ui";
 
 export const metadata = {
-  title: "about — little crafts by jie",
+  title: "about · little crafts by jie",
 };
 
 const paragraphs = [

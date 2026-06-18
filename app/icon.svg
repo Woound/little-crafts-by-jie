@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="little crafts by jie">
+  <rect width="32" height="32" rx="7" fill="#F8F4EB"/>
+  <path d="M16 26.2S5.2 19.3 5.2 12.3C5.2 9.1 7.7 6.8 10.7 6.8C13 6.8 15 8.1 16 9.9C17 8.1 19 6.8 21.3 6.8C24.3 6.8 26.8 9.1 26.8 12.3C26.8 19.3 16 26.2 16 26.2Z" fill="#BC6360"/>
+  <path d="M16 23.4S7.8 18 7.8 12.6C7.8 10.4 9.4 8.9 11.4 8.9C13.1 8.9 14.7 9.9 16 11.6C17.3 9.9 18.9 8.9 20.6 8.9C22.6 8.9 24.2 10.4 24.2 12.6C24.2 18 16 23.4 16 23.4Z" fill="none" stroke="#F0D9D5" stroke-width="1.1" stroke-dasharray="1.6 1.6" stroke-linecap="round"/>
+</svg>

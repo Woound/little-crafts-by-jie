@@ -4,7 +4,7 @@ import { font, shadow, color } from "@/lib/ui";
 import { LINKS } from "@/lib/links";
 
 export const metadata = {
-  title: "commissions — little crafts by jie",
+  title: "commissions · little crafts by jie",
 };
 
 const STEPS = [

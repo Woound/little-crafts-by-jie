@@ -25,9 +25,17 @@ const nunito = Nunito_Sans({
 });
 
 export const metadata = {
-  title: "Little Crafts by Jie — handmade crochet",
+  title: "little crafts by jie · handmade crochet",
   description:
-    "Handmade crochet bags, drawstring pouches, heart keychains and cosy little bits — each one made by hand in the UK. Browse the shop or commission something just for you.",
+    "handmade crochet bags, drawstring pouches, heart keychains and cosy little bits, each one made by hand in the uk. browse the shop or commission something just for you.",
+  openGraph: {
+    title: "little crafts by jie · handmade crochet",
+    description:
+      "handmade crochet bags, drawstring pouches, heart keychains and cosy little bits, each one made by hand in the uk.",
+    siteName: "little crafts by jie",
+    locale: "en_GB",
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }) {
